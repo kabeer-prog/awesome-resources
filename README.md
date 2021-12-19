@@ -88,6 +88,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+
+
+
+
 **[⬆ Back to Index](#content)**
 
 ## Android
@@ -107,6 +111,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 **[⬆ Back to Index](#content)**
 
 ## Angular
+
+
 
 - [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 - [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
@@ -144,6 +150,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 **[⬆ Back to Index](#content)**
+
 
 ## C
 
@@ -210,6 +217,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
 ---
+
+
 
 **[⬆ Back to Index](#content)**
 
